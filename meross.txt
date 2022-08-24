@@ -1,0 +1,2 @@
+# Blocklist of some domains used by Meross
+mqtt.meross.com
